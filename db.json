@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Test Title",
+    "text": "Test text"
+  },
+  {
+    "title": "Thursday",
+    "text": "This is the first Thursday of the new month July",
+    "id": 2
+  },
+  {
+    "title": "Friday",
+    "text": "Tomorrow will be the next first Friday of anew month July ",
+    "id": 3
+  },
+  {
+    "title": "Saturday",
+    "text": "Celebration of  US  Day",
+    "id": 4
+  }
+]
